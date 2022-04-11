@@ -14,7 +14,4 @@ Make WPF app run in background
 More animations\
 Customizable API
 
-#
- Most of the code was from [tgraupmann](tgraupmann) [Razer Chroma Roblox Mod](https://github.com/tgraupmann/RobloxSampleChromaMod)
-
  This project is under the [MIT License](https://github.com/Razer-Opensource/.github/blob/main/LICENSE)
