@@ -13,5 +13,3 @@ Compile to ``.exe`` file\
 Make WPF app run in background 
 More animations\
 Customizable API
-
- This project is under the [MIT License](https://github.com/Razer-Opensource/.github/blob/main/LICENSE)
