@@ -1,4 +1,6 @@
 # Razer Chroma Roblox
+Razer Chroma RGB animation changes when the player state changes!
+You can customize it to change on events!
 
 Test it out [here](https://www.roblox.com/games/9326650089/Untitled-Game)
 
